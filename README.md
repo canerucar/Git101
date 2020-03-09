@@ -10,3 +10,7 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **5 -** pwd	  **- Terminal üstünde bulunduğumuz mevcut dizinin tam adresini gösterir <br/>**
 **6 -** ls		**- Listelemek. bulunduğumuz konumda mevcut olan dosyaları gösterir <br/>**
 **7 -** cd		**- Dizin değiştirmek için kullanılır <br/>**
+
+**8 -** cd ..	       **- Bir önceki dizine gider <br/>**
+**9 -** clear        **- Terminali temizler <br/>**
+**10 -** git init    **- Projeye gittikten sonra bu komutu yazıp dosyayı bir git projesi haline getiriyoruz <br/>**
