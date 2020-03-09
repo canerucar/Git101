@@ -21,3 +21,7 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **13 -** git add *    **- Tüm dosyalar staging areada <br/>**
 **14 -** git commit -m “ilk commit” **- Sonra bu komutu yazıp bir string giriyoruz <br/>**
 **15 -** git log      **- Girdiğimiz versiyonları listelemek için <br/>**
+
+**16 -** git status          **- Projede herhangi bir değişiklik yapmışsak değişiklikleri görürüz <br/>**
+**17 -** git add cikarma.txt **- Projeye dosya ekledik <br/>**
+**18 -** git commit -m “Cikarma methodu eklendi” <br/>
