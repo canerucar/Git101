@@ -13,4 +13,6 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **8 -** cd ..	       **- Bir önceki dizine gider <br/>**
 **9 -** clear        **- Terminali temizler <br/>**
-**10 -** git init    **- Projeye gittikten sonra bu komutu yazıp dosyayı bir git projesi haline getiriyoruz <br/>**
+**10 -** git init    **- Proje dosyasına gittikten sonra bu komutu yazıp dosyayı bir git projesi haline getiriyoruz <br/>**
+
+*NOT :  Bash Terminalinde projenin kök dizini içerisinde rm -rf .git yazarsanız .git klasörünü silerek, projenin git ile olan ilişkisini kesebilirsiniz.*
