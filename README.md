@@ -28,3 +28,13 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **19 -** git diff          **- Dosya içinde yapılan değişiklikleri görmemize yarıyor <br/>**
 **20 -** git rm carpma.txt **- Dosyayı sildik <br/>**
+
+**21 -** git rm -r silinecekler  **- Dosya adını verdiğimiz kısım silinecektir <br/>**
+
+**22 -** git mv deneme123 deneme321 **- Dosya adını değiştirdik <br/>
+**23 -** git mv deneme321 dosyalar/ **- Diğer bir görevi olarak dosyayı taşıyor <br/>**
+
+**24 -** git checkout --dosyaadi   **- dosya içi değişikliğini eski haline getirir <br/>**
+**25 -** git reset HEAD dosyaadi   **- yapılan değişikliği geri alma <br/>**
+
+**26 -** git checkout “gitmek istediğimiz versiyonun kodu”
