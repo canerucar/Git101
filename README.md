@@ -48,3 +48,10 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **30 -** git pull 		**- GitHub dan bilgisayarda ki dosyanıza dosyaları çeker <br/>**
 **31 -** git branch 	**- GitHub da ki dallarımızı listeliyor <br/>**
+
+**32 -** git branch --all 		  **- Uzak bilgisayarımızdaki brancleri listeliyor <br/>**
+**33 -** git branch yandal1 	  **- Yeni dal oluşturuldu <br/>**
+**34 -** git checkout yandal1 	**- Yandal1 deyiz şuan <br/>**
+
+**35 -** git diff master yandal1 **- Bu iki dal arasında ki farkları görmemize yarıyor <br/>**
+**36 -** git merge yandal2 	 **- İki dalı birleştiriyoruz. zaten master dalında olduğumuz için belirtmemize gerek yok <br/>**
