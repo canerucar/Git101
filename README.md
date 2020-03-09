@@ -37,4 +37,14 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **24 -** git checkout --dosyaadi   **- dosya içi değişikliğini eski haline getirir <br/>**
 **25 -** git reset HEAD dosyaadi   **- yapılan değişikliği geri alma <br/>**
 
-**26 -** git checkout “gitmek istediğimiz versiyonun kodu”
+**26 -** git checkout “gitmek istediğimiz versiyonun kodu” <br/>
+
+**25 -** git remote add origin “repo adres linki ekle” <br/>
+**26 -** git remote **- bağlantı eklendi mi eklenmedi mi <br/>**
+**27 -** git push -u origin master **- projeyi repoya gönderdik <br/>**
+
+**28 -** cat .gitignore 		**- gizli dosya oluşturup içine bir şey ler yazıyoruz <br/>**
+**29 -** gedit .gitignore 	**- dosyayı açıyor <br/>**
+
+**30 -** git pull 		**- GitHub dan bilgisayarda ki dosyanıza dosyaları çeker <br/>**
+**31 -** git branch 	**- GitHub da ki dallarımızı listeliyor <br/>**
