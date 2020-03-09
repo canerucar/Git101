@@ -55,3 +55,12 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **35 -** git diff master yandal1 **- Bu iki dal arasında ki farkları görmemize yarıyor <br/>**
 **36 -** git merge yandal2 	 **- İki dalı birleştiriyoruz. zaten master dalında olduğumuz için belirtmemize gerek yok <br/>**
+
+**36 -** README SAYFASI İÇİN:
+       kalın başlık için:  #Burası Başlık : Başına tek kare <br/>
+       bir alt kalın başlık: ## Alt Başlık : Başına iki kare <br/>
+       ** Kalın Kelime ** <br/> Başına ve sonuna iki yıldız <br/>
+       *italik kelime* : başına ve sonuna tek yıldız <br/>
+
+        link vermek için: [Google Linki](http://www.google.com) <br/>
+        resim eklemek için: ![Banner Resmi](resmin githubda ki tam adresini gir) <br>
