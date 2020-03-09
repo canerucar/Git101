@@ -25,3 +25,6 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **16 -** git status          **- Projede herhangi bir değişiklik yapmışsak değişiklikleri görürüz <br/>**
 **17 -** git add cikarma.txt **- Projeye dosya ekledik <br/>**
 **18 -** git commit -m “Cikarma methodu eklendi” <br/>
+
+**19 -** git diff          **- Dosya içinde yapılan değişiklikleri görmemize yarıyor <br/>**
+**20 -** git rm carpma.txt **- Dosyayı sildik <br/>**
