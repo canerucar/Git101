@@ -74,4 +74,4 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **43 -** git clone            	**- Projeyi bilgisayarınıza indirir <br/>**
 **44 -** git branch - v		**- Branchle ilgili ayrıntılı bilgi görmemiz için <br/>**
 
-44 - git stasht                  - Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız
+**44 -** git stasht                **- Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız <br/>**
