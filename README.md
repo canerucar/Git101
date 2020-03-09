@@ -56,7 +56,7 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **35 -** git diff master yandal1 **- Bu iki dal arasında ki farkları görmemize yarıyor <br/>**
 **36 -** git merge yandal2 	 **- İki dalı birleştiriyoruz. zaten master dalında olduğumuz için belirtmemize gerek yok <br/>**
 
-**36 -** README SAYFASI İÇİN:
+**37 -** README SAYFASI İÇİN:
        kalın başlık için:  #Burası Başlık : Başına tek kare <br/>
        bir alt kalın başlık: ## Alt Başlık : Başına iki kare <br/>
        ** Kalın Kelime ** <br/> Başına ve sonuna iki yıldız <br/>
@@ -64,3 +64,14 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
         link vermek için: [Google Linki](http://www.google.com) <br/>
         resim eklemek için: ![Banner Resmi](resmin githubda ki tam adresini gir) <br>
+        
+**38 -** git --version 	 	**- Bilgisayarınızda ki git sürümünü öğrenmeniz için <br/>**
+**39 -** git log                   **- Commitler ile ilgili ayrıntılı bilgi <br/>
+**40 -** git log --oneline.    	**- Yapılan commitleri kısaltılmış olarak gösterir <br/>
+**41 -** git log -p 	        	**- Daha ayrıntılı bilgi <br/>**
+**42 -** git status 	        	**- Hangi branchte olduğumuzu görebiliriz <br/>**
+
+**43 -** git clone            	**- Projeyi bilgisayarınıza indirir <br/>**
+**44 -** git branch - v		**- Branchle ilgili ayrıntılı bilgi görmemiz için <br/>**
+
+44 - git stasht                  - Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız
