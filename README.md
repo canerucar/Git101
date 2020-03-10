@@ -1,6 +1,6 @@
-
+<img align="left" src="https://user-images.githubusercontent.com/25962055/76292248-eba5ab00-62bf-11ea-8218-d537bacef7ff.png" height="100" width="100">
 <img align="left" src="https://user-images.githubusercontent.com/25962055/76292608-98802800-62c0-11ea-927e-0efc1d485a31.png" height="100" width="100">
-<img src="https://user-images.githubusercontent.com/25962055/76293146-966a9900-62c1-11ea-863d-8873ddaed4dd.png" height="100" width="100">
+
 
 # Git - Terminal - Github
 
@@ -236,3 +236,7 @@ Remote branch'i **git branch -dr** komutu ile sildiğiniz halde remote reposit
 **git revert** komutu commit ettiğiniz herhangi bir değişikliği geri almak için kullanılır. Bu komut ile commit işleminizin kendisi veya bilgileri silinmez sadece commit işleminizdeki değişiklik geri alınır. Örneğin eklediğiniz bir satırı kaldırmak isterseniz **git revert** komutu ile bunu yapabilirsiniz. <br/>
 
 Dosyanızın merge işlemine başlamadan önceki haline istediğiniz zaman geri dönebilirsiniz. Bunun için yapmanız gereken tek şey **git merge --abort** komutunu çalıştırmak.
+
+
+
+#### Bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek mutlu etmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz buda böyledir diyip kaçıyorum :running: :running: :running: :running:
