@@ -257,3 +257,5 @@ Dosyanızın merge işlemine başlamadan önceki haline istediğiniz zaman geri 
 
 
 #### Bu çocuk ingilizce yazsa beğenirdiniz dimi!!11! şaka şaka, bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek ödüllendirmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz diyip kaçıyorum :running: :running: :running: :running:
+
+<img align="left" src="https://user-images.githubusercontent.com/25962055/76316518-c9c21d80-62eb-11ea-8a0e-c50e06f4d489.gif" height="320" width="600">
