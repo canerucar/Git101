@@ -213,4 +213,4 @@ Bu adres formatlarından ilk iki tanesi SSH (Secure Shell) protokolüne karş�
 Benzer şekilde aşağıdaki **git rm** komutu ile **ornek2.md** dosyasının bir sonraki commit’imizde yer almayacağını belirtebiliriz. <br/>
 $ git rm ornek2.md <br/>
 
-Gitflow, Forking ve Pull Request adı verilen alternatif iş akışları ile ilgili arama yaparak farklı yaklaşımları kendiniz inceleyebilirsiniz.
+*Gitflow, Forking ve Pull Request adı verilen alternatif iş akışları ile ilgili arama yaparak farklı yaklaşımları kendiniz inceleyebilirsiniz.*
