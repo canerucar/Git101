@@ -1,6 +1,4 @@
 <img align="left" src="https://user-images.githubusercontent.com/25962055/76292248-eba5ab00-62bf-11ea-8218-d537bacef7ff.png" height="100" width="100">
-<img align="left" src="https://user-images.githubusercontent.com/25962055/76292608-98802800-62c0-11ea-927e-0efc1d485a31.png" height="100" width="100">
-
 
 # Git - Terminal - Github
 
