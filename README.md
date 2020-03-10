@@ -198,12 +198,12 @@ Remote repository'ler ise genellikle uzaktaki bir sunucuda yer alırlar ve bu su
 
 **ls -la :** komutu ile proje klasörünüz altındaki dosyaları listelediğinizde klasörün içinde .git isimli gizli bir klasörün olduğunu göreceksiniz. <br/>
 
-**Git ile versiyon kontrolü yapılan bir projeye dahil olduğunuzda size verilecek ilk bilgiler projenin Git adresi (URL) ve projeye erişim için kullanacağınız kullanıcı adı ve şifrenizdir. Uzaktaki bir repository'nin (URL) adresi aşağıdaki formatlardan birinde olacaktır <br/> **
+Git ile versiyon kontrolü yapılan bir projeye dahil olduğunuzda size verilecek ilk bilgiler projenin Git adresi (URL) ve projeye erişim için kullanacağınız kullanıcı adı ve şifrenizdir. Uzaktaki bir repository'nin (URL) adresi aşağıdaki formatlardan birinde olacaktır <br/>
 
-ssh://user@server/git-repo.git <br/>
-kullanıcıadı@sunucuadı:git-repo.git <br/>
-http://example.com/git-repo.git <br/>
-https://example.com/git-repo.git <br/>
-git://example.com/git-repo.git <br/>
+- **ssh://user@server/git-repo.git <br/>**
+- **kullanıcıadı@sunucuadı:git-repo.git <br/>**
+- **http://example.com/git-repo.git <br/>**
+- **https://example.com/git-repo.git <br/>**
+- **git://example.com/git-repo.git <br/>**
 
-**Bu adres formatlarından ilk iki tanesi SSH (Secure Shell) protokolüne karşılık gelir. http:// ve https:// protokolleri ise normal internet erişimi için de kullanılan protokollerdir. Son format ise git'in kendi protokolüne karşılık gelir. <br/> **
+Bu adres formatlarından ilk iki tanesi SSH (Secure Shell) protokolüne karşılık gelir. http:// ve https:// protokolleri ise normal internet erişimi için de kullanılan protokollerdir. Son format ise git'in kendi protokolüne karşılık gelir. <br/> 
