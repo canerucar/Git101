@@ -214,3 +214,5 @@ Benzer şekilde aşağıdaki **git rm** komutu ile **ornek2.md** dosyasını
 $ git rm ornek2.md <br/>
 
 *Gitflow, Forking ve Pull Request adı verilen alternatif iş akışları ile ilgili arama yaparak farklı yaklaşımları kendiniz inceleyebilirsiniz.*
+
+**Remote branchdeki değişikliklerin bilgilerini indirmek için kullanılan fetch (türkçe anlamı getirmek) ve bu değişiklikleri entegre etmek için kullanılan pull (türkçe anlamı çekmek) ifadelerinin birbirine yakın anlamları olduğu için karıştırabilirsiniz. Bu karışıklığın önüne geçmek için yapacağınız en güzel şey git pull komutunu hiç kullanmamak olacaktır. <br/>**
