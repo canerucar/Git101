@@ -174,3 +174,17 @@ git checkout 95a6e33d877afbfe6e43419996cda613bdd4936a -- . <br/>
 buradaki girmiş olduğunuz uzun sayıya bir kimlik belirtmektedir. Bu kimliğe git log komutu ile ulaşırız. Komutun sonundaki nokta ise o versiyona ait tüm dosyaları geri almak istediğimizi belirtir. Eğer belirli bir dosyayı geri almak istersek nokta yerine o dosyanın isimini yazmamız gerekir. Bu komutu çalıştırdığımızda işlemlerin geçerli olması için commit etmek gerektiğini unutmayın. <br/>
 
 **git branch --all :** Komutuyla dalları listeleriz. Uzak depodaki dalları görüntülemek istersek bu komutu kullanırız. <br/>
+
+## Diff aracı ayarları : 
+Bir dosyanın Tx anındaki içeriği ile Ty anındaki içeriğinin arasındaki farkları tespit etme ve gösterme işlemidir. <br/> İngilizcede difference (fark) kelimesinin kısaltması olan diff şeklide kullanılır. <br/
+
+- Eğer proje githubda ise clone ile bilgisayarımıza indirip bağlantı yapıyoruz <br/>
+- Proje artık yerelde olduğuna göre. Üzerinde çalışmaya başlayabiliriz. İlk önce cd projeadi komutu ile terminalde projenin içine giriyoruz. Bu işlemden sonra kimin yaptığını bildirmek için isim ve mail adresi giriyoruz.
+
+Henüz versiyon kontrolünde olmayan bir projeniz varsa *git init komutu ile projenizi tüm klasör ve dosyaları ile birlikte versiyon kontrolüne alabilirsiniz
+
+Projeniz uzaktaki veya şirket ağınızdaki bir Git sunucusunda versiyon kontrolü altında tutuluyorsa projeyi kendi bilgisayarınıza git clone komutu ile indirebilirsiniz.
+
+Fakat, commit işlemi öncesinde dosyalarınızda yaptığınız değişikliklerin bir özetini görmek isteyebilirsiniz. git status komutu ile hangi dosyaları değiştirdiğinizi, sildiğinizi veya hangi dosyaları eklediğinizi kolayca görebilirsiniz.
+
+Bir sonraki aşamada değişen dosyalarınızdan hangilerinin commit'e dahil olduğunu belirlemeniz gerekiyor. Bu adımda commit'e dahil etmek istediğiniz dosyaları staging area denilen ara bir alana alırız.
