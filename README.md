@@ -156,3 +156,12 @@ Sonuç olarak
 $ git branch -d Yenidal oluşturulan yeni dalı siler (Yerelde). <br/>
 $ git branch -dr Yenidal oluşturulan yeni dalı siler (Yerelde ve GitHub’da). <br/>
 *(Silme işlemlerini yaparken master dalında olduğunuzdan emin olun.)* <br/>
+
+# Watch, Star ve Fork
+
+**Watch  :**  Github'ta bir projeyi takip etmeye yarar. <br/>
+**Star   :** Projeyi beğendiğiniz anlamına gelir ve sonradan yıldızladığınız projeyeleri inceleyebilirisiniz. <br/>
+**Fork.  :** Projenin bir kopyasını hesabınıza almak istediğinizde kullanılır. <br/>
+**Issues :** Problemler <br/>
+
+*NOT : Projenizle ilgili oluşan sorun, öneri vs. gibi diğer kişilerden yardım, öneri, çözüm almak için kullanılır. Projenizle ilgili bir issues oluşturmak için issues sekmesinde new issues butonunu kullanabiliriz. İstenilen bilgileri girdikten sonra issues yayınlayabilir ve sonuca ulaştığınızda kapatabilirsiniz.*
