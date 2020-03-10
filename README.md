@@ -1,4 +1,5 @@
-![a](https://user-images.githubusercontent.com/25962055/76291990-54d8ee80-62bf-11ea-87a2-36b09883dd46.jpg)  # Git - Terminal - Github
+
+# Git - Terminal - Github
 
 Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişikliklerin tarihçesini takip edip kayıt altında tutan sistemlerdir.
 
