@@ -127,9 +127,9 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 Github Fork - Github üzerindeki bir projeyi kendi hesabımıza klonlamaktır
 
-# referans brach’imizi seçelim.
+#referans brach’imizi seçelim.
 $ git checkout master 
-# yeni branch açalım
+#yeni branch açalım
 $ git checkout -b yeni-branch-adi
 
 Değişiklikleri commit’ledikten sonra artık pushlayabiliriz.
@@ -138,17 +138,17 @@ $ git push origin yeni-branch-adi
 
 Projeyi güncel tutmak için aşağıdaki komutları uygulamanız yeterli olacaktır.
 
-# referans brach’imizi seçelim.
+#referans brach’imizi seçelim.
 $ git checkout master
-# orijinal projeden değişiklikleri çekelim. && forkladığımız yere push'layalım.
+#orijinal projeden değişiklikleri çekelim. && forkladığımız yere push'layalım.
 $ git pull upstream master && git push origin master
 
 Sonuç olarak
 
-	Projeyi forkla ve bilgisayarına indir.
-	Başlamadan önce, projeyi orijinali ile senkronize tutmak için “remote upstream” oluştur.
-	Yapacağın işle ilgili branch oluştur.
-	Değişiklikleri yap, commit mesajını yaz ve “CONTRIBUTING.md” dosyası varsa oku.
-	Forkladığın projeye push’la
-	Yeni bir PR oluştur.
-	Katkıda bulunmanın tadını çıkar ve açtığın PR’ı takip etmeyi unutma.
+	- Projeyi forkla ve bilgisayarına indir.
+	- Başlamadan önce, projeyi orijinali ile senkronize tutmak için “remote upstream” oluştur.
+	- Yapacağın işle ilgili branch oluştur.
+	- Değişiklikleri yap, commit mesajını yaz ve “CONTRIBUTING.md” dosyası varsa oku.
+	- Forkladığın projeye push’la
+	- Yeni bir PR oluştur.
+	- Katkıda bulunmanın tadını çıkar ve açtığın PR (Pull Request)'i takip etmeyi unutma.
