@@ -100,4 +100,29 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **62 -** git checkout --track **- Remote branch ile aynı isimde local bir branch oluşturulur <br/>**
 
 **63 -** git fetch	**- remote branchteki değişiklikleri indirmek için kullanıyoruz <br/>**
-**64 - git pull	**- local branchimize entegre etmek istediğimizde (çok fazla kullanılmaz) <br/>**
+**64 -** git pull	**- local branchimize entegre etmek istediğimizde (çok fazla kullanılmaz) <br/>**
+
+**65 -** git diff    **- Remote ve local arasındaki farkları inceler <br/>**
+
+**66 -** git branch -d superyeniozellik          **- Localdeki branch siler <br/>**
+**67 -** git branch -dr superyeniozellik         **- Remotedekini siler <br/>**
+
+**68 -** git commit --amend		**- Son commit işlemini yeniden yapmak için <br/>**
+**69 -** git commit --amend -m	**- Commit mesajını değiştirmek için <br/>**
+
+**70 -** git checkout --dosya1md 	**- Değişiklik yaptığımız branchin son commit haline getiririz <br/>**
+**71 -** git reset —hard 		**- Tüm dosyalarda yaptığımız değişiklikleri geri almak istiyorsak <br/>**
+
+**72 -** git revert 			**- Commit edilen herhangi bir değişikliği geri almak için kullanılır <br/>**
+**73 -** git diff —staged 		**- Sadece staging Area’ya commit edilmek üzere eklenen çıkarılanları görmek için <br/>**
+
+**74 -** git log -p             		       **- Dosyaların içeriğindeki farkları görmek için <br/>**
+**75 -** git diff master..superyeniozellik 	**- İki branchi karşılaştırmak için kullanılır <br/>**
+
+**76 -** git merge --abort 			**- Merge işlemini geri alma <br/>**
+
+*Sourcegear DiffMerge - Çakışmaları daha rahat görmemiz için uygulama*
+
+#Github Projeye Destek Sağlamak
+
+Github Fork - Github üzerindeki bir projeyi kendi hesabımıza klonlamaktır
