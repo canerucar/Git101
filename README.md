@@ -77,15 +77,15 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **43 -** git clone            	**- Projeyi bilgisayarınıza indirir <br/>**
 **44 -** git branch - v		**- Branchle ilgili ayrıntılı bilgi görmemiz için <br/>**
 
-**44 -** git stasht                **- Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız <br/>**
+**44 -** git stasht             **- Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız <br/>**
 
 **45 -** git stash list		**- Geçici değişikliklerimizi görmemiz için <br/>**
 **46 -** git stash pop		**- Değişikliğin en üsttekini geri yüklenecek ve bunu listeden silecek <br/> **
 **47 -** git stash apply	**- İstediğimiz değişikliği geri yükleyebiliriz <br/>**
 **48 -** git stash drop		**- Herhangi bir değişikliği listeden silmek için kullanılır <br/>**
 
-**49 -** git checkout master			**- Branch geçişi <br/>**
-**50 -** git checkout commitiDsiyazılacak	       **- İstediğimiz commite gider <br/>**
+**49 -** git checkout master			 **- Branch geçişi <br/>**
+**50 -** git checkout commitiDsiyazılacak	 **- İstediğimiz commite gider <br/>**
 **51 -** git branch loginsorunu                  **- Yeni bir branch oluşturduk <br/>**
 **53 -** git merge loginsorunu                   **- Yeni açılan branchi ana master branchimizle bağladık <br/>**
 
