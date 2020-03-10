@@ -243,15 +243,15 @@ Dosyanızın merge işlemine başlamadan önceki haline istediğiniz zaman geri 
 **- mkdir :** yeni dizin / klasör oluşturur <br/>
 **- touch :** yeni dosya oluşturur <br/>
 **- rm :** dosya siler <br/>
-- cat : dosya içeriğini gösterir
-- pwd : bulunduğunuz dizini gösterir
-- cp : dosyayı dizini kopyalar
-- mv : dosyayı / dizini bağlar
-- greep : belirli bir ifadeyi dosyada/satırlarda arar
-- find : dosya ve dizinde arar
-- vi/nano : metin editörleri
-- history : kullanılan son 50 komutu gösterir 
+**- cat :** dosya içeriğini gösterir <br/>
+**- pwd :** bulunduğunuz dizini gösterir <br/>
+**- cp :** dosyayı dizini kopyalar <br/>
+**- mv :** dosyayı / dizini bağlar <br/>
+**- greep :** belirli bir ifadeyi dosyada/satırlarda arar <br/>
+**- find :** dosya ve dizinde arar <br/>
+**- vi/nano :** metin editörleri <br/>
+**- history :** kullanılan son 50 komutu gösterir <br/>
 
 
 
-#### Bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek ödüllendirmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz buda böyledir diyip kaçıyorum :running: :running: :running: :running:
+#### Bu çocuk ingilizce yazsa beğenirdiniz dimi!!11! şaka şaka, bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek ödüllendirmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz diyip kaçıyorum :running: :running: :running: :running:
