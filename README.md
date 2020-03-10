@@ -165,3 +165,9 @@ $ git branch -dr Yenidal oluşturulan yeni dalı siler (Yerelde ve GitHub’da).
 **Issues :** Problemler <br/>
 
 *NOT : Projenizle ilgili oluşan sorun, öneri vs. gibi diğer kişilerden yardım, öneri, çözüm almak için kullanılır. Projenizle ilgili bir issues oluşturmak için issues sekmesinde new issues butonunu kullanabiliriz. İstenilen bilgileri girdikten sonra issues yayınlayabilir ve sonuca ulaştığınızda kapatabilirsiniz.*
+
+# Versiyon Değiştirmek
+
+Git projesinde almış olduğumuz versiyonlara geri dönmek istediğimizde aşağıdaki şekilde bir komut yazarız: <br/>
+git checkout 95a6e33d877afbfe6e43419996cda613bdd4936a -- . <br/>
+buradaki girmiş olduğunuz uzun sayıya bir kimlik belirtmektedir. Bu kimliğe git log komutu ile ulaşırız. Komutun sonundaki nokta ise o versiyona ait tüm dosyaları geri almak istediğimizi belirtir. Eğer belirli bir dosyayı geri almak istersek nokta yerine o dosyanın isimini yazmamız gerekir. Bu komutu çalıştırdığımızda işlemlerin geçerli olması için commit etmek gerektiğini unutmayın. <br/>
