@@ -69,8 +69,8 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
         resim eklemek için: ![Banner Resmi](resmin githubda ki tam adresini gir) <br>
         
 **38 -** git --version 	 	**- Bilgisayarınızda ki git sürümünü öğrenmeniz için <br/>**
-**39 -** git log                   **- Commitler ile ilgili ayrıntılı bilgi <br/>
-**40 -** git log --oneline.    	**- Yapılan commitleri kısaltılmış olarak gösterir <br/>
+**39 -** git log                **- Commitler ile ilgili ayrıntılı bilgi <br/>**
+**40 -** git log --oneline.    	**- Yapılan commitleri kısaltılmış olarak gösterir <br/>**
 **41 -** git log -p 	        	**- Daha ayrıntılı bilgi <br/>**
 **42 -** git status 	        	**- Hangi branchte olduğumuzu görebiliriz <br/>**
 
