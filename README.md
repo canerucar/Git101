@@ -78,7 +78,7 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **45 -** git stash list		**- Geçici değişikliklerimizi görmemiz için <br/>**
 **46 -** git stash pop		**- Değişikliğin en üsttekini geri yüklenecek ve bunu listeden silecek <br/> **
-**47 -** git stash apply		**- İstediğimiz değişikliği geri yükleyebiliriz <br/>**
+**47 -** git stash apply	**- İstediğimiz değişikliği geri yükleyebiliriz <br/>**
 **48 -** git stash drop		**- Herhangi bir değişikliği listeden silmek için kullanılır <br/>**
 
 **49 -** git checkout master			**- Branch geçişi <br/>**
@@ -152,3 +152,7 @@ Sonuç olarak
 	- Forkladığın projeye push’la
 	- Yeni bir PR oluştur.
 	- Katkıda bulunmanın tadını çıkar ve açtığın PR (Pull Request)'i takip etmeyi unutma.
+
+$ git branch -d Yenidal oluşturulan yeni dalı siler (Yerelde).
+$ git branch -dr Yenidal oluşturulan yeni dalı siler (Yerelde ve GitHub’da).
+*(Silme işlemlerini yaparken master dalında olduğunuzdan emin olun.)*
