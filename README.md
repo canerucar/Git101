@@ -75,3 +75,29 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 **44 -** git branch - v		**- Branchle ilgili ayrıntılı bilgi görmemiz için <br/>**
 
 **44 -** git stasht                **- Commitlemeden önce geçici kayıt altına almak istediğimizde kullanırız <br/>**
+
+**45 -** git stash list		**- Geçici değişikliklerimizi görmemiz için <br/>**
+**46 -** git stash pop		**- Değişikliğin en üsttekini geri yüklenecek ve bunu listeden silecek <br/> **
+**47 -** git stash apply		**- İstediğimiz değişikliği geri yükleyebiliriz <br/>**
+**48 -** git stash drop		**- Herhangi bir değişikliği listeden silmek için kullanılır <br/>**
+
+**49 -** git checkout master			**- Branch geçişi <br/>**
+**50 -** git checkout commitiDsiyazılacak	       **- İstediğimiz commite gider <br/>**
+**51 -** git branch loginsorunu                  **- Yeni bir branch oluşturduk <br/>**
+**53 -** git merge loginsorunu                   **- Yeni açılan branchi ana master branchimizle bağladık <br/>**
+
+**54 -** git clone --bare " "	**- Localde ki projeyi , remote repositorye atmak için <br/>**
+**55 -** git init --bare	**- Boş remote repository oluşturmak için <br/>
+
+**57 -** git remote -v	**- Remote repositorymiz ile ilgili bilgileri görüyoruz <br/>
+
+**58 -** fetch             **- Remote repositryde yapılacak olan okuma işlemleri <br/>**
+**59 -** push             **- Remote  repositoryde yazma işlemleri olarak kullanılır <br/>**
+
+**60 -** git branch -va    **- Remotede ki değişikliklere baktık <br/>**
+**61 -** git fetch		- Remote ile ilgili localdeki diskte tuttuğu bilgileri güncellemesini sağladık
+
+**62 -** git checkout --track **- Remote branch ile aynı isimde local bir branch oluşturulur <br/>**
+
+**63 -** git fetch	**- remote branchteki değişiklikleri indirmek için kullanıyoruz <br/>**
+**64 - git pull	**- local branchimize entegre etmek istediğimizde (çok fazla kullanılmaz) <br/>**
