@@ -123,6 +123,6 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 *Sourcegear DiffMerge - Çakışmaları daha rahat görmemiz için uygulama*
 
-#Github Projeye Destek Sağlamak
+## Github Projeye Destek Sağlamak
 
 Github Fork - Github üzerindeki bir projeyi kendi hesabımıza klonlamaktır
