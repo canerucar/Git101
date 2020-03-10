@@ -1,6 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/25962055/76292248-eba5ab00-62bf-11ea-8218-d537bacef7ff.png" height="100" width="100">
 
-# Git - Terminal - Github
+# Git - Terminal - Github <br/>
+<br/>
 
 Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişikliklerin tarihçesini takip edip kayıt altında tutan sistemlerdir.
 
@@ -235,6 +236,22 @@ Remote branch'i **git branch -dr** komutu ile sildiğiniz halde remote reposit
 
 Dosyanızın merge işlemine başlamadan önceki haline istediğiniz zaman geri dönebilirsiniz. Bunun için yapmanız gereken tek şey **git merge --abort** komutunu çalıştırmak.
 
+**En çok kullanılan SSH komutları**
+
+**- ls :** dizin içeriğini gösterir <br/>
+**- cd :** dizin değiştirir <br/>
+**- mkdir :** yeni dizin / klasör oluşturur <br/>
+**- touch :** yeni dosya oluşturur <br/>
+**- rm :** dosya siler <br/>
+- cat : dosya içeriğini gösterir
+- pwd : bulunduğunuz dizini gösterir
+- cp : dosyayı dizini kopyalar
+- mv : dosyayı / dizini bağlar
+- greep : belirli bir ifadeyi dosyada/satırlarda arar
+- find : dosya ve dizinde arar
+- vi/nano : metin editörleri
+- history : kullanılan son 50 komutu gösterir 
 
 
-#### Bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek mutlu etmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz buda böyledir diyip kaçıyorum :running: :running: :running: :running:
+
+#### Bu zamana kadar aldığım notları sonunda üşenmeyip paylaşabildiğim için kendimi çikolata yiyerek ödüllendirmeye gidiyorum. Eksik veya yanlış gördüğünüz yerler varsa canım sağolsun hatasız kul olmaz buda böyledir diyip kaçıyorum :running: :running: :running: :running:
