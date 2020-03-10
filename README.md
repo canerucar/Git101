@@ -153,6 +153,6 @@ Sonuç olarak
 	- Yeni bir PR oluştur.
 	- Katkıda bulunmanın tadını çıkar ve açtığın PR (Pull Request)'i takip etmeyi unutma.
 
-$ git branch -d Yenidal oluşturulan yeni dalı siler (Yerelde).
-$ git branch -dr Yenidal oluşturulan yeni dalı siler (Yerelde ve GitHub’da).
-*(Silme işlemlerini yaparken master dalında olduğunuzdan emin olun.)*
+$ git branch -d Yenidal oluşturulan yeni dalı siler (Yerelde). <br/>
+$ git branch -dr Yenidal oluşturulan yeni dalı siler (Yerelde ve GitHub’da). <br/>
+*(Silme işlemlerini yaparken master dalında olduğunuzdan emin olun.)* <br/>
