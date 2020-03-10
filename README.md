@@ -3,7 +3,7 @@
 # Git - Terminal - Github <br/>
 <br/>
 
-Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişikliklerin tarihçesini takip edip kayıt altında tutan sistemlerdir.
+>Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişikliklerin tarihçesini takip edip kayıt altında tutan sistemlerdir.
 
 **1 -** git config --global user.name “adsoyad”	    **- Git hesabına kendimizi tanıtıp ismimizi ekledik <br/>**
 **2 -** git config --global user.email “emailimiz”	**- Git hesabına email adresimizi ekledik <br/>**
