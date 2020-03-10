@@ -207,3 +207,5 @@ Git ile versiyon kontrolü yapılan bir projeye dahil olduğunuzda size verilece
 - **git://example.com/git-repo.git <br/>**
 
 Bu adres formatlarından ilk iki tanesi SSH (Secure Shell) protokolüne karşılık gelir. http:// ve https:// protokolleri ise normal internet erişimi için de kullanılan protokollerdir. Son format ise git'in kendi protokolüne karşılık gelir. <br/> 
+
+**Staging Area :** Kısaca Staging Area'yı açıklamak gerekirse, ancak git'de değişikliklerinizin kayıt altına alındığı üçüncü bir alan daha vardır ki buna Staging Area denir ve git'in en temel kavramlarından birisidir. Staging Area'yı, proje dosyalarımızdaki bir dizi değişikliği remote repository'ye göndermeden önce kayıt altında tuttuğunuz veri tabanı/alan olarak tanımlayabiliriz. <br/>
