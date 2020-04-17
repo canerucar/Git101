@@ -31,7 +31,7 @@ Versiyon kontrol sistemleri en basit anlamda dosyalarınızda ki değişiklikle
 
 **19 -** git diff          **- Dosya içinde yapılan değişiklikleri görmemize yarıyor <br/>**
 **20 -** git rm carpma.txt **- Dosyayı sildik <br/>**
-**   -** git diff --cached **- stage ettiğim değişiklikler <br/>**
+   **-** git diff --cached **- stage ettiğim değişiklikler <br/>**
 
 **21 -** git rm -r silinecekler  **- Dosya adını verdiğimiz kısım silinecektir <br/>**
 
